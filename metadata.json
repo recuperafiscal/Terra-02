@@ -1,0 +1,6 @@
+{
+  "name": "TERRABRICKS — Linktree Premium",
+  "description": "Linktree premium animado inspirado na Netflix para a TERRABRICKS Fábrica de Tijolos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
